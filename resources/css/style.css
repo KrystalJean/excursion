@@ -3,7 +3,7 @@ body {
     text-align: center;
 }
 
-h1 {
+#intro {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
@@ -11,8 +11,42 @@ h1 {
     text-align: center;
 }
 
-#downloadLink {
+.downloadLink {
     color: aquamarine;
     font-size: 16px;
     cursor: pointer;
+    text-align: center;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+.pContent {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+img {
+    text-align: center;
+}
+
+#phoneIcon {
+    margin-top: 20px;
+}
+
+footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 21px;
+    color: gray;
+    text-align: right;  
+    
 }
